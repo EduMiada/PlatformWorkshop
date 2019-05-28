@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="Edu Ordem de Serviço" max_length="40" name="x_snc_edu_app_edu_ordem_de_servico" type="collection">
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Tipo de Serviço" max_length="40" name="u_tipo_servico" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Manutenção" sequence="0" value="1"/>
+                <element inactive_on_update="false" label="Inovação" sequence="1" value="2"/>
+                <element inactive_on_update="false" label="Trasformação" sequence="2" value="3"/>
+            </choice>
+        </element>
+    </element>
+</database>

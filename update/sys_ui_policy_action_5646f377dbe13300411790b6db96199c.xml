@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field>assigned_to</field>
+        <mandatory>ignore</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>admin11</sys_created_by>
+        <sys_created_on>2019-05-28 13:55:33</sys_created_on>
+        <sys_id>5646f377dbe13300411790b6db96199c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>assigned_to</sys_name>
+        <sys_package display_value="Edu - Minha Aplicação" source="x_snc_edu_app">1daf2733dbe13300411790b6db9619ad</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Edu - Minha Aplicação">1daf2733dbe13300411790b6db9619ad</sys_scope>
+        <sys_update_name>sys_ui_policy_action_5646f377dbe13300411790b6db96199c</sys_update_name>
+        <sys_updated_by>admin11</sys_updated_by>
+        <sys_updated_on>2019-05-28 13:55:33</sys_updated_on>
+        <table>x_snc_edu_app_edu_ordem_de_servico</table>
+        <ui_policy display_value="Edu - Esconde campo atribuição">24e5bf37dbe13300411790b6db961980</ui_policy>
+        <visible>true</visible>
+    </sys_ui_policy_action>
+</record_update>

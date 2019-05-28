@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_tipo_servico" label="Tipo de Serviço" language="en" table="x_snc_edu_app_edu_ordem_de_servico">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_tipo_servico</element>
+            <help/>
+            <hint/>
+            <label>Tipo de Serviço</label>
+            <language>en</language>
+            <name>x_snc_edu_app_edu_ordem_de_servico</name>
+            <plural>Tipo de Serviços</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin11</sys_created_by>
+            <sys_created_on>2019-05-28 13:30:40</sys_created_on>
+            <sys_id>adc0bf73dbe13300411790b6db9619cc</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>Tipo de Serviço</sys_name>
+            <sys_package display_value="Edu - Minha Aplicação" source="x_snc_edu_app">1daf2733dbe13300411790b6db9619ad</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Edu - Minha Aplicação">1daf2733dbe13300411790b6db9619ad</sys_scope>
+            <sys_update_name>sys_documentation_x_snc_edu_app_edu_ordem_de_servico_u_tipo_servico_en</sys_update_name>
+            <sys_updated_by>admin11</sys_updated_by>
+            <sys_updated_on>2019-05-28 13:31:05</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
